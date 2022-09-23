@@ -1,0 +1,13 @@
+.footer {
+    margin: 0 auto;
+    .inner-line {
+        display: flex;
+        justify-content: center;
+        .upper-line {
+            width: 350px;
+        }
+        .bottom-line {
+            width: 700px;
+        }
+    }
+}
